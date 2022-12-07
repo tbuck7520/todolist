@@ -1,1 +1,1 @@
-# todolist This is a todolist created with HTML/CSS/JavaScript/Express/EJ6/MongoDBAtlas/Mongoose.  It was created as part of a full-stack course.
+# todolist This is a todolist created with HTML/CSS/JavaScript/Express/EJ6/MongoDBAtlas/Mongoose.  It was created as part of a full-stack course. It contains dynamic pages.  I plan to continue working on this project to tie the UI together.
